@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tanmay Mishra
-- 👀 I’m interested in Data Science, Machine Learning and Deep Learning.
-- 🌱 I’m currently learning Deep Learning.
-- 💞️ I’m looking to collaborate on Deep Learning Project.
+- 👀 I’m interested in ReactJS, Frontend, Machine Learning and Deep Learning.
+- 🌱 I’m currently learning ReactJS.
+- 💞️ I’m looking to collaborate on FrontEnd Projects.
 - 📫 How to reach me - tanmaymishra2013@gmail.com
 
 <!---
