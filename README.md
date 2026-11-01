@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tanmay Mishra
-- 👀 I’m interested LLM's, GenAI, Machine Learning and Deep Learning, ReactJS.
+- 👀 I’m interested LLM's, GenAI, Machine Learning Deep Learning, Frontend and ReactJS.
 - 🌱 I’m currently learning AI Tools.
 - 💞️ I’m looking to collaborate on AI related Projects.
 - 📫 How to reach me - tanmaymishra2013@gmail.com
