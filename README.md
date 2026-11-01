@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tanmay Mishra
-- 👀 I’m interested in ReactJS, Frontend, Machine Learning and Deep Learning.
-- 🌱 I’m currently learning ReactJS.
-- 💞️ I’m looking to collaborate on FrontEnd Projects.
+- 👀 I’m interested LLM's, GenAI, Machine Learning and Deep Learning, ReactJS.
+- 🌱 I’m currently learning AI Tools.
+- 💞️ I’m looking to collaborate on AI related Projects.
 - 📫 How to reach me - tanmaymishra2013@gmail.com
 
 <!---
